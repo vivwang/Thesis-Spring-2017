@@ -1,4 +1,4 @@
-
+#Thesis-Spring 2017
 ##Thesis Development at California College of the Arts, Spring 2017 
 ###Syllabus
 
