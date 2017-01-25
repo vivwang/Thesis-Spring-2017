@@ -65,9 +65,6 @@ The schedule is subject to change
 - Homework: refined final product
 
 ###Week 11: Tuesday, April 4, 2017
-- Critique working mock-up
-- Lecture: Minimal Viable Project (MVP)
-- Debug and refine mockup, start on prototype
 - Homework: refined final product
 
 ###Week 12: Tuesday, April 11, 2017
