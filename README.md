@@ -3,7 +3,7 @@
 ###Syllabus
 
 * Title: Thesis Development
-* Meeting: TBD
+* Meeting: Thursday 4:00pm
 * Instructor: Michael Shiloh mshiloh@cca.edu
 
 ####Focus
@@ -26,48 +26,44 @@ The schedule is subject to change
 - Homework: Ideation for keyboard, propose 4 projects to develop.
 
 ###Week 2: Tuesday, January 24, 2017
-- Homework:
+ 
+  
+###Week 3: Thursday, February 2, 2017
 	- Build a MVP for the first project.
   
-###Week 3: Tuesday, January 31, 2017
-- Homework:
+###Week 4: Thursday, February 9, 2017
 	- Build a MVP for the second project.
   
-###Week 4: Tuesday, February 7, 2017
-- Homework:
+###Week 5: Thursday, February 16, 2017
 	- Build a MVP for the third project.
   
-###Week 5: Tuesday, February 14, 2017
-- Homework:
-	- Build a MVP for the forth project.
-  
-###Week 6: Tuesday, February 21, 2017
-- Work week  
+###Week 6: Thursday, February 23, 2017
+        - Build a MVP for the forth project.
 
 ##February 26, 2017
 - Midterm Review
 
-###Week 7: Tuesday, February 28, 2017
+###Week 7: Thursday, March 2, 2017
  - Final project proposals
 
-###Week 8: Tuesday, March 7, 2017
+###Week 8: Thursday, March 9, 2017
 - Start working: mock-ups, test ideas and concepts
 
-###Week 9: Tuesday, March 14, 2017
+###Week 9: Thursday, March 16, 2017
 - Critique proposals
 - Start working: mock-ups, test ideas and iterations
 
-###Spring Break: Tuesday, March 21, 2017
+###Spring Break: Thursday, March 23, 2017
 - Homework: __Working__ mock-up by next week
 
-###Week 10: Tuesday, March 28, 2017
+###Week 10: Thursday, March 30, 2017
 - Work: test, repair, iterate
 - Homework: refined final product
 
-###Week 11: Tuesday, April 4, 2017
+###Week 11: Thursday, April 6, 2017
 - Homework: refined final product
 
-###Week 12: Tuesday, April 11, 2017
+###Week 12: Thursday, April 13, 2017
 - Passover: work week
 
 ##April 17-24
