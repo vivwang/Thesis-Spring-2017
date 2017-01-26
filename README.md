@@ -27,7 +27,7 @@ The schedule is subject to change
 
 ###Week 2: Tuesday, January 24, 2017
  
-  
+ 
 ###Week 3: Thursday, February 2, 2017
 	- Build a MVP for the first project.
   
