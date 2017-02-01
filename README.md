@@ -29,16 +29,16 @@ The schedule is subject to change
  
  
 ###Week 3: Thursday, February 2, 2017
-	- Build a MVP for the first project.
+	- 3 proposals with workplans.
   
 ###Week 4: Thursday, February 9, 2017
-	- Build a MVP for the second project.
+	- Build a MVP for the first project.
   
 ###Week 5: Thursday, February 16, 2017
-	- Build a MVP for the third project.
+	- Build a MVP for the second project.
   
 ###Week 6: Thursday, February 23, 2017
-        - Build a MVP for the forth project.
+        - Build a MVP for the third project.
 
 ##February 26, 2017
 - Midterm Review
